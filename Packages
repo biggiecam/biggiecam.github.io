@@ -3,7 +3,7 @@ Version: 0.0.2-2+debug
 Section: Tweaks
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: .//debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
 Size: 1702
 Installed-Size: 104
